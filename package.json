@@ -1,6 +1,6 @@
 {
   "name": "@nhz.io/md5",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Calculate MD5 Digest of a sting",
   "main": "index.js",
   "scripts": {

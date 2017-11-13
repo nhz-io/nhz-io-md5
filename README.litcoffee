@@ -41,7 +41,7 @@ const digest = md5('foobar')
 
     console.log 'pass'
 
-## Version 0.0.0
+## Version 1.0.0
 
 ## License [MIT](LICENSE)
 
